@@ -14,3 +14,7 @@ function PickupLocation(address, city){
     this.address = address;
     this.city = city
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 625c7c983e63600d8e5b4f5562399afc96e25aa8
